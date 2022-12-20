@@ -75,4 +75,5 @@ Code designed to display the welcome screen. It displays:
 * There is a third option to close the application.
 
 Implemented the concepts such as exceptions, collections, and sorting techniques for source code optimization and increased performance 
+<<<<<<< HEAD
 
